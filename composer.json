@@ -1,0 +1,21 @@
+{
+    "name": "fit/vuong-nguyen-manh-dat-php",
+    "description": "Lap Trinh PHP",
+    "type": "project",
+	"autoload":
+	{
+		"psr-4":
+		{
+			"App\\":"app/"
+		}
+	},
+    "authors": [
+        {
+            "name": "Vuong Nguyen Manh Dat",
+            "email": "datvuong1606@gmail.com"
+        }
+    ],
+    "require": {
+        "shuchkin/simplexlsx": "^1.0"
+    }
+}
